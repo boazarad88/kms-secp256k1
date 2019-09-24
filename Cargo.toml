@@ -16,7 +16,7 @@ serde = "1.0"
 serde_derive = "1.0"
 
 [dependencies.paillier]
-git = "https://github.com/KZen-networks/rust-paillier"
+git = "https://github.com/boazarad88/rust-paillier"
 tag = "v0.3.0"
 
 [dependencies.zk-paillier]
