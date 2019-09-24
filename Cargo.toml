@@ -30,7 +30,6 @@ git = "https://github.com/boazarad88/multi-party-schnorr"
 [dependencies.curv]
 git = "https://github.com/boazarad88/curv"
 features =  ["ec_secp256k1"]
-tag = "v0.2.2"
 
 [dependencies.multi-party-ecdsa]
 git = "https://github.com/boazarad88/multi-party-ecdsa"
